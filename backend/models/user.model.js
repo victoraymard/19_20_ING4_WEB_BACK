@@ -1,21 +1,14 @@
 const mongoose = require('mongoose');
 
-const userSchema = new mongoose.Schema(
-    {
-        id: {
-            type: String,
-            required: true
-        },
-    },
-    {
-        location: String
-    },
-    {
-        personsInHouse: 1
-    },
-    {
-        houseSize: String
-    }
-);
+const Schema = mongoose.Schema;
+var ObjectId = mongoose.Schema.Types.ObjectId;
 
-module.exports = mongoose.model('User', userSchema);
+// create a schema
+const userSchema = new Schema({
+    _id: ObjectId,
+    location: String,
+    personsInHouse: Number,
+    houseSize: String
+});
+
+module.exports = mongoose.model('user', userSchema, 'user');
