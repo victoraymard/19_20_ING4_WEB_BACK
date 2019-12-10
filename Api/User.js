@@ -44,6 +44,7 @@ route.get('/',function (req,res,next) {
 route.get('/:userID', function (req,res,next) {
     User.findById(req.params.userID).then(function (user) {
         console.log("doing the get on one user");
+        console.log(user);
         res.send(user);
         console.log("get done");
     });
