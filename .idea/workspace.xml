@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ef36581-ebe0-4d6b-a581-2874164af050" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/index.js" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3a9b1cee-996a-455a-8739-74c7cc5d3a58" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,27 +14,38 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="ProjectId" id="1UhlMjJIzpfkPFtTW4vuZ10OKGD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="ProjectId" id="1UZB3PHuFVaP8Ago1uw6scOCpcb" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Api" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\Desktop\e2\Tes_api_link_bdd\Api" />
+      <recent name="C:\Users\victo\Desktop\e2\Tes_api_link_bdd\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\Desktop\Tes_api_link_bdd" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -47,27 +54,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5ef36581-ebe0-4d6b-a581-2874164af050" name="Default Changelist" comment="" />
-      <created>1575554036905</created>
+      <changelist id="3a9b1cee-996a-455a-8739-74c7cc5d3a58" name="Default Changelist" comment="" />
+      <created>1575816661858</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575554036905</updated>
-      <workItem from="1575554038239" duration="2059000" />
+      <updated>1575816661858</updated>
+      <workItem from="1575816663385" duration="11534000" />
+      <workItem from="1575837525128" duration="41000" />
+      <workItem from="1575913662796" duration="378000" />
+      <workItem from="1575914656644" duration="14258000" />
+      <workItem from="1575967887837" duration="276000" />
+      <workItem from="1575968201657" duration="6510000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#Notifications" timestamp="1575967906571">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1575967906571" />
+    <state x="522" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575817414373">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="522" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1575817414373" />
+    <state x="-32" y="148" key="SettingsEditor" timestamp="1575990699015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-32" y="148" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1575990699015" />
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1575968202849">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="255" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1575968202849" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1575969409227">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1575969409227" />
   </component>
 </project>
